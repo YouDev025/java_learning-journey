@@ -1,7 +1,3 @@
----
-title: Java Environment and Ecosystem
----
-
 # Java Environment and Ecosystem
 
 - Java is a versatile programming language used in web apps, mobile apps, enterprise software, cloud-native, and microservices-based development.
