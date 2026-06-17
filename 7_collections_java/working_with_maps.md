@@ -1,13 +1,6 @@
 # Working with Maps: HashMap and TreeMap
 
-## Learning Objectives
-
-After studying this material, you'll be able to:
-- Describe HashMaps and TreeMaps
-- Identify their applications and use cases
-- Compare HashMaps and TreeMaps based on their requirements
-- Explain when to use each map type
-
+ 
 ---
 
 ## What is a Map?
